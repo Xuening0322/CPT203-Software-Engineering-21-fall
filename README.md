@@ -4,4 +4,4 @@ This module introduces basic concepts of software engineering.
 
 The repository includes my lecture notes (both mindmap and markdown version).
 
-The final exam covered contents from week 3 to week 13.
+The final exam covered contents from week 4 to week 13.
